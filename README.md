@@ -1,9 +1,6 @@
 # gallery_of_images
 Create a webpage that displays a gallery of images, given a JSON array containing a list of image URLs
 
-## Objective
-Create a web page that displays a gallery of images, given a JSON array containing a list of image URLs.
-
 ## Requirements
   1. Do not use any Javascript libraries or frameworks for your web page.
   2. ES5 or above is preferred.
